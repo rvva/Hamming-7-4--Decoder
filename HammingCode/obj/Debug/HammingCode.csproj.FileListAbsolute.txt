@@ -1,0 +1,9 @@
+C:\Users\qqs\source\repos\HammingCode\HammingCode\bin\Debug\HammingCode.exe.config
+C:\Users\qqs\source\repos\HammingCode\HammingCode\bin\Debug\HammingCode.exe
+C:\Users\qqs\source\repos\HammingCode\HammingCode\bin\Debug\HammingCode.pdb
+C:\Users\qqs\source\repos\HammingCode\HammingCode\obj\Debug\HammingCode.csprojAssemblyReference.cache
+C:\Users\qqs\source\repos\HammingCode\HammingCode\obj\Debug\HammingCode.Properties.Resources.resources
+C:\Users\qqs\source\repos\HammingCode\HammingCode\obj\Debug\HammingCode.csproj.GenerateResource.cache
+C:\Users\qqs\source\repos\HammingCode\HammingCode\obj\Debug\HammingCode.exe
+C:\Users\qqs\source\repos\HammingCode\HammingCode\obj\Debug\HammingCode.pdb
+C:\Users\qqs\source\repos\HammingCode\HammingCode\obj\Debug\HammingCode.Form1.resources
